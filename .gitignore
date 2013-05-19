@@ -1,9 +1,9 @@
 #Visual Studio .NET exclusions
-bin
-obj
-Obj
-TestResults
-test-results
+CloudFilesUpload/bin
+CloudFilesUpload/obj
+CloudFilesUpload/Obj
+CloudFilesUpload/TestResults
+CloudFilesUpload/test-results
 *.csproj.user
 *.suo
 *.cache
