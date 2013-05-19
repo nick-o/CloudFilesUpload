@@ -1,5 +1,5 @@
 #Visual Studio .NET exclusions
-*/bin
+bin
 */obj
 */Obj
 #CloudFilesUpload/TestResults
