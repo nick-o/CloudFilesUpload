@@ -1,5 +1,6 @@
 #Visual Studio .NET exclusions
 bin
+Cloudfiles/Icons
 */obj
 */Obj
 #CloudFilesUpload/TestResults
