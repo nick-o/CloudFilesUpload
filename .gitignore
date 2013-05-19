@@ -1,2 +1,13 @@
-#Windows Executables
-*.exe
+#Visual Studio .NET exclusions
+bin
+obj
+Obj
+TestResults
+test-results
+*.csproj.user
+*.suo
+*.cache
+*~
+*.swp
+*.userprefs
+*.pidb
