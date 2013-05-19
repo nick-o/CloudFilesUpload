@@ -1,0 +1,10 @@
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\bin\Debug\CloudFilesUpload.exe.config
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\bin\Debug\CloudFilesUpload.exe
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\bin\Debug\CloudFilesUpload.pdb
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\bin\Debug\openstacknet.dll
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\bin\Debug\SimpleRESTServices.dll
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\obj\Debug\CloudFilesUpload.csprojResolveAssemblyReference.cache
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\obj\Debug\CloudFilesUpload.exe
+C:\Users\nico4624\Documents\GitHub\CloudFilesUpload\CloudFilesUpload\obj\Debug\CloudFilesUpload.pdb
