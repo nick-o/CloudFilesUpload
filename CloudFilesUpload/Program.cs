@@ -19,7 +19,7 @@ namespace CloudFilesUpload
             Boolean containerExists = false; 
             if (args.Length < 4 || args.Length > 5)
             {
-                Console.WriteLine("Usage: {0} username api_key [region (US|UK)]", Environment.CommandLine);
+                Console.WriteLine("Usage: {0} username api_key target_container path_to_file [region (US|UK)]", Environment.CommandLine);
                 Environment.Exit(1);
             }
             RackspaceCloudIdentity auth = new RackspaceCloudIdentity();
