@@ -19,7 +19,7 @@ $NETdir = [System.Runtime.InteropServices.RuntimeEnvironment]::GetRuntimeDirecto
 #Add Runtime dir to PATH environment variable
 $env:Path += ";" + $NETdir
 
-#Build using msbuild, default Configuration is Debug so specifying Release Configuration
+#Build using MSBuild, default Configuration is Debug so specifying Release Configuration
 #using the Rebuild target which runs a clean first
 MSBuild.exe .\CloudFilesUpload.sln /t:Rebuild /p:Configuration=Release
 ```
