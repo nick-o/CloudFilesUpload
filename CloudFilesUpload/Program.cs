@@ -82,6 +82,7 @@ namespace CloudFilesUpload
             catch (Exception ex2)
             {
                 Console.WriteLine(ex2.Message);
+                Environment.Exit(1);
             }
             Console.WriteLine("*SUCCESS* File: \"{0}\" uploaded to \"{1}\"", filePath, targetContainer);
         }
